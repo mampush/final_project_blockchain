@@ -1,0 +1,10 @@
+__pycache__
+.env
+env/
+.history
+.hypothesis/
+reports/
+JamiiBlock.md
+JamiiBlockII.md
+node_modules
+.next
